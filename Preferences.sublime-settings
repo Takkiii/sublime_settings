@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"ignored_packages":
+	[
+	],
+	"theme": "Spacegray.sublime-theme",
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true
+}

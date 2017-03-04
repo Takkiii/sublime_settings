@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Flow",
+		"GitGutter",
+		"Origami",
+		"Package Control",
+		"ReactJS",
+		"RSpec",
+		"SublimeCodeIntel",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-flow",
+		"SublimeLinter-haml",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Syntax Highlighting for Sass",
+		"Theme - Spacegray",
+		"TodoReview",
+		"TrailingSpaces",
+		"Trimmer",
+		"Vintage Escape"
+	]
+}
