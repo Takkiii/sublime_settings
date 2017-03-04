@@ -9,8 +9,11 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"Babel",
+		"Babel Snippets",
+		"BoundKeys",
 		"BracketHighlighter",
 		"ConvertToUTF8",
+		"Emmet",
 		"Flow",
 		"GitGutter",
 		"Origami",
@@ -31,6 +34,7 @@
 		"TodoReview",
 		"TrailingSpaces",
 		"Trimmer",
-		"Vintage Escape"
+		"Vintage Escape",
+		"Vintageous"
 	]
 }
